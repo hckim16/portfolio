@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Hyo Chang Kim <hck@hyochangkim.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hckim16/portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
