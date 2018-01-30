@@ -1,0 +1,54 @@
+body{ 
+  font-family: lobster;
+  background: no-repeat center center fixed; 
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+img{
+  border-radius: 15px;
+  width: 300px;
+  height: 300px;
+  box-shadow: 10px 10px 10px black;
+
+}
+.spacer{
+  padding: 5%;
+}
+
+.block{
+  background-color: rgba(0,0,0, .8);
+  color: white;
+  width: 75%;
+  margin: auto;
+  border-radius: 15px;
+  font-size: 1.5em;
+  padding: 3%;
+}
+
+.block2{
+  background-color: rgba(0,0,0, .8);
+  color: white;
+  width: 37.5%;
+  margin: auto;
+  opacity: .75;
+  border-radius: 15px;
+  font-size: 1.5em;
+  padding: 3%;
+}
+
+.card{
+  text-align: center;
+  margin: auto;
+}
+
+.btn{
+  box-shadow: 10px 10px 10px black;
+}
+
+p{
+  text-align: justify;
+  text-indent: 40px;
+}
