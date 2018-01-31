@@ -26,8 +26,8 @@
                 </div>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#experience">Resume</a></li>
                     <li><a href="#about">About Me</a></li>
-                    <li><a href="http://www.hyochangkim.com" target="blank"><span class="fa fa-pencil"></span> My Blog</a></li>
                     <li><a href="#connect">Connect</a></li>
                 </ul>
             </div>
@@ -91,7 +91,23 @@
                     </div>
                 </div>
             </div>
-            <p align="left"></p>
+        </div>
+        <div class="spacer"></div>
+        <a name="experience"></a>
+        <div class="block">
+            <h1 class="text-center">Experience</h1>
+            <hr>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <a class="btn btn-lg btn-default" href="HCKNJIT.pdf" target="_blank"> Resume</a>
+                </div>
+                <div class="col-md-4">
+                    <a class="btn btn-lg btn-default" href="Scan-pdf.jpg" target="_blank"><i class="fa fa-certificate" aria-hidden="true"></i></i> Phi Theta Kappa</a>
+                </div>
+                <div class="col-md-4">
+                    <a class="btn btn-lg btn-default" href="http://www.hyochangkim.com" target="_blank"></i> My Blog</a>
+                </div>
+            </div>
         </div>
         <div class="spacer"></div>
         <a name="connect"></a>
